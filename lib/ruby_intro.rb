@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 # Part 1
-
+## init comment
 def sum(arr)
   # YOUR CODE HERE
 end
